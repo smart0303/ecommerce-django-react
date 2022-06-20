@@ -26,6 +26,7 @@ Responsive Ecommerce website using Django and React
  * venv/scripts/activate
  * pip install -r requirements.txt
  * python manage.py runserver
+ * python manage.py createsuperuser (to see admin functions)
 
 ## React modules
  * cd frontend
