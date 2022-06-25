@@ -1,5 +1,5 @@
 # G-shop
-Responsive Ecommerce website using Django and React 
+Responsive Ecommerce website using Django and React with Paypal integration
 
 # Using
 * Python
