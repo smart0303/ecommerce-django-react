@@ -46,7 +46,7 @@ function App() {
           <Route path='/admin/orders/' component={OrderListScreen} />
         </Container>
       </main>
-      <Footer className py/>
+      <Footer />
     </Router>
   );
 }
