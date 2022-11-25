@@ -1,4 +1,3 @@
-from dataclasses import field
 from rest_framework import serializers
 from django.contrib.auth.models import User
 from rest_framework_simplejwt.tokens import RefreshToken
@@ -17,7 +16,7 @@ class UserSerializer(serializers.ModelSerializer):
     def get_is_admin(self, obj):
         return obj.is_staff
 
-    def get__id(self, obj):  # double underscore, becouse i use '_id' in models
+    def get__id(self, obj):  # double underscore, because i use '_id' in models
         return obj.id
 
     def get_name(self, obj):
