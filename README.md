@@ -23,7 +23,7 @@ Responsive Ecommerce website using Django and React with Paypal integration
  * git clone https://github.com/yankkv75/ecommerce-django-react/
  * cd ecommerce-django-react
  * Create virtual environment: virtualenv myenv
- * venv/scripts/activate
+ * myenv/scripts/activate
  * pip install -r requirements.txt
  * python manage.py runserver
  * python manage.py createsuperuser (to see admin functions)
