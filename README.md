@@ -20,7 +20,7 @@ Responsive Ecommerce website using Django and React with Paypal integration
  * Carousel for last products
 
 # Download and Setup 
- * git clone https://github.com/yankkv75/ecommerce-django-react/
+ * git clone https://github.com/smart0303/ecommerce-django-react/
  * cd ecommerce-django-react
  * Create virtual environment: virtualenv myenv
  * myenv/scripts/activate
